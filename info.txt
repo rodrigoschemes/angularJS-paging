@@ -1,0 +1,6 @@
+Instalar
+- angularUtils (https://github.com/michaelbromley/angularUtils)
+
+
+Iniciar aplicação
+- python -m SimpleHTTPServer 8000
